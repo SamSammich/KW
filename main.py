@@ -17,6 +17,5 @@ def main():
     for row in data:
         print(row)
 
-
 if __name__ == "__main__":
     main()
